@@ -1,0 +1,45 @@
+﻿@font-face {
+    font-family: 'nth';
+    src: url('Neris-Thin-webfont.eot');
+    src: url('Neris-Thin-webfont (1).eot') format('embedded-opentype'),
+         url('Neris-Thin-webfont.svg') format('svg'),
+         url('Neris-Thin-webfont.woff') format('woff'),
+         url('Neris-Thin-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nbl';
+    src: url('Neris-Black-webfont.eot');
+    src: url('Neris-Black-webfont (1).eot') format('embedded-opentype'),
+         url('Neris-Black-webfont.svg') format('svg'),
+         url('Neris-Black-webfont.woff') format('woff'),
+         url('Neris-Black-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nsb';
+    src: url('Neris-SemiBold-webfont.eot');
+    src: url('Neris-SemiBold-webfont (1).eot') format('embedded-opentype'),
+         url('Neris-SemiBold-webfont.svg') format('svg'),
+         url('Neris-SemiBold-webfont.woff') format('woff'),
+         url('Neris-SemiBold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nli';
+    src: url('Neris-Light-webfont.eot');
+    src: url('Neris-Light-webfont (1).eot') format('embedded-opentype'),
+         url('Neris-Light-webfont.svg') format('svg'),
+         url('Neris-Light-webfont.woff') format('woff'),
+         url('Neris-Light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
